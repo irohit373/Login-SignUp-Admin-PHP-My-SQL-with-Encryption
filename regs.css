@@ -1,0 +1,24 @@
+form{
+	background-color: ;
+	border-radius: 3px;
+	  position: fixed;
+   top:10%;
+   left:39%;
+   width:370px;  
+   border:0px solid #fff;
+
+}
+h1{
+	text-align: center;
+}
+button{
+	text-align: center;
+	width: 370px;
+}
+body{
+	background-size: cover; 
+}
+input{
+	content: center;
+	width: 370px;
+}
